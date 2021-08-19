@@ -18,9 +18,10 @@ img{
 .lef{
 	width: 300px;
 	height: 1500px;
-	background-color: #c9d6df;
+	background-color: #fdfdfd;
 	float: left;
 	border-radius: 15px;
+	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 .nr{
 	width: 200px;
@@ -29,25 +30,26 @@ img{
 	color: #1e2022;
 	font-size: 18px;
 	font-weight: bold;
-	line-height: 45px;
+	line-height: 35px;
 }
 .rig{
 	width: 750px;
 	height: 1500px;
-	background-color: #f0f5f9;
+	background-color: #fdfdfd;
 	float: left;
 	border-radius: 15px;
+	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 	.lef li{
             /*margin-right: 100px;*/
             width: 150px;
             height: 30px; 
             color: #52616b;
-            line-height: 30px;
+            line-height: 25px;
 	}
 	.lef a{
             width: 150px;
-            line-height: 30px;
+            line-height: 25px;
             font-size: 15px;
             /*margin-right: 100px;*/
             color: #52616b;
