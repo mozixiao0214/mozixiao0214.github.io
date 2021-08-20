@@ -1,12 +1,12 @@
-img:active{
+img:hover{
 		width: 710px;
 	}
 img{
 		width: 230px;
 		margin-top: 20px;
 		margin-left: 12px;
-		pointer-events: none;
+		/*pointer-events: none;
 		-webkit-user-select: none;
 		-moz-user-select: none;
-		user-select: none;
+		user-select: none*/;
 	}

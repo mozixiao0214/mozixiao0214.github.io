@@ -8,24 +8,24 @@ li{
 img{
 	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
 	border-radius: 15px;
-	pointer-events: none;
+	/*pointer-events: none;
 		-webkit-user-select: none;
 		-moz-user-select: none;
-		user-select: none;
+		user-select: none;*/
 }
 .zt{
 	width: 1050px;
-	height: 1500px;
+	/*height: 1500px;*/
 	margin: 30px auto;
 	border-radius: 15px;
 }
 .lef{
 	width: 300px;
-	height: 1500px;
-	background-color: #fdfdfd;
+	height: 1050px;
+	/*background-color: #fdfdfd;*/
 	float: left;
 	border-radius: 15px;
-	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+	/*box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);*/
 }
 .nr{
 	width: 200px;
@@ -38,8 +38,10 @@ img{
 }
 .rig{
 	width: 750px;
-	height: 1500px;
+	/*height: 1500px;*/
 	background-color: #fdfdfd;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
 	float: left;
 	border-radius: 15px;
 	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
