@@ -5,4 +5,5 @@ img{
 		width: 230px;
 		margin-top: 20px;
 		margin-left: 12px;
+		pointer-events: none;
 	}

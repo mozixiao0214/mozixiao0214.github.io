@@ -8,6 +8,7 @@ li{
 img{
 	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
 	border-radius: 15px;
+	pointer-events: none;
 }
 .zt{
 	width: 1050px;
